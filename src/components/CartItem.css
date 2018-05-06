@@ -1,0 +1,20 @@
+li.Item {
+  display: flex;
+  align-content: space-between;
+  align-items: center;
+  border: 1px solid #ccc;
+}
+
+li.Item p {
+  flex: 1;
+  padding: 12px 24px;
+  font-size: 100%;
+}
+
+li.Item p.name {
+  font-weight: bold;
+}
+
+li.Item p.price {
+  max-width: 50px;
+}

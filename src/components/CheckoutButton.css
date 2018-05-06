@@ -1,0 +1,13 @@
+.button2 {
+  font-family: 'Courier New', serif;
+  font-size: 110%;
+  padding: 20px 40px 20px 40px;
+  border: solid #ccc 1px;
+  vertical-align: middle;
+  display: inline-block;
+  box-shadow: 1px 1px 5px rgba(0,0,0, 0.2);
+}
+
+.button2:hover {
+  background: #eee;
+}
